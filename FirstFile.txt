@@ -1,0 +1,2 @@
+Hello
+This is the first file i am creating to make you understand the concept og Git!!
